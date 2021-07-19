@@ -1,0 +1,87 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body
+{
+	background: #8bfcba url('ianfontesbackground.png');
+	background-attachment: fixed;
+	font-size: 1em;
+	font-family: "Trebuchet MS", Helvetica, Sans-serif;
+}
+
+h2
+{
+	color: #595856;
+}
+
+
+#principal
+{
+	width: 920px;
+	margin: auto;
+}
+
+#cabecalho 
+{
+	width: auto;
+	height: 210px;
+	background: white;
+	text-align: center;
+	padding: 5px;
+}
+
+#info-cabecalho
+{
+	padding: 10px;
+
+}
+
+#perfil-pessoal
+{
+	padding: 7px;
+}
+
+#info-perfil
+{
+
+}
+
+#conteudo-principal 
+{
+	height: 307px;
+	margin: 20px auto 20px auto;
+	background-color: #1c8d3d;
+}
+
+#portifolio 
+{
+	width: 535px;
+	height: 307px;
+	padding: 20px;
+}
+
+.conteudo-portifolio
+{	
+	font-size: 1.1em;
+	color: white;
+	border-bottom: 1px solid whitesmoke;
+}
+
+.lista-portifolio
+{
+	font-size: 1.1em;
+	color: white;
+	padding: 10px;
+	list-style-position: inside;
+	text-align: right;
+}
+
+#rodape
+{
+	height: 20px;
+	text-align: center;
+	padding: 20px;	
+	background: white;
+}
